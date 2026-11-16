@@ -1,0 +1,9 @@
+langgraph
+langchain-openai
+langchain-community
+duckduckgo-search
+requests
+beautifulsoup4
+python-dotenv
+pytest
+ddgs>=9.16

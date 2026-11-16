@@ -1,0 +1,15 @@
+# secrets: NEVER upload
+.env
+
+# virtual environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+
+# you asked to leave these out
+tests/
+conftest.py
+pytest.ini
+
+# your own generated reports
+report_*.txt
